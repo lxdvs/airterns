@@ -1,4 +1,4 @@
 airterns
 ========
 
-Commit your name to the file and get rolling!
+Commit a file with your name in a branch and make a pull request to get started!
