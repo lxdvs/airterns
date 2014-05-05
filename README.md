@@ -10,3 +10,7 @@ Please clone this repo and create a directory in the root named like your name i
 Totally optoinal: Bonus points if you later commit a [Codecademy Ruby](http://www.codecademy.com/tracks/ruby) screenshot that looks like [this](http://screencast.com/t/tLl1V2ClW). If you have never taken them, the codecademy guildes are great but very basic, so you should be able to breeze right through it even if you have never encountered Ruby before. Plus, its pretty fun.
 
 Pull request your branch, and I will merge it in! Example: https://github.com/lxdvs/airterns/pull/1
+
+In addition, please read up on some of our internal doc for code stuff:  
+[Engineering Core Values](https://hackpad.com/Airbnb-Engineering-Core-Values-mbWJRVkDXs3)  
+[Getting Started](https://hackpad.com/Getting-Started-5KAcG42ufKn)
