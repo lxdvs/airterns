@@ -1,4 +1,4 @@
-Airterns
+Airtern Git Funtime
 ========
 
 Git is core to nearly every company in tech right now. You cannot go wrong learning more about git, and we would like as little friction to your bootup experience at Airbnb as possible. In fact, ideally, you should be committing code that goes live on your first day here.
